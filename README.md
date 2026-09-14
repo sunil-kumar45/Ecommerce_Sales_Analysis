@@ -199,7 +199,7 @@ Ecommerce_Sales_Analysis/
 
 **Ramavath Sunil Kumar**
 
-**Passionate Data Science learner building practical Machine Learning, SQL, and Analytics projects.**
+**Data Analytics enthusiast building practical projects using Python, SQL, and Power BI.**
 
 🌐 Portfolio:
 https://sunil-kumar45.github.io/Portfolio/
